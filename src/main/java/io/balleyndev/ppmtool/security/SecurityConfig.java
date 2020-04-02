@@ -56,7 +56,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 				.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and().headers()
 				.frameOptions().sameOrigin()// h2
 				.and().authorizeRequests()
-				.antMatchers("/", "/favicon.ico", "/**/*.png", "/**/*.gif", "/**/*.svg", "/**/*.jpg","/**/*.jpeg", "/**/*.html",
+				.antMatchers("/", "/favicon.ico", "manifest.json", "/**/*.png", "/**/*.gif", "/**/*.svg", "/**/*.jpg","/**/*.jpeg", "/**/*.html",
 						"/**/*.css", "/**/*.js")
 				.permitAll().antMatchers(SIGN_UP_URLS).permitAll().antMatchers(H2_URL).permitAll().anyRequest()
 				.authenticated();
