@@ -34,6 +34,7 @@ public class Project {
 	private String projectIdentifier;
 
 	@NotBlank(message = "Project Description required")
+	@Size(max = 250, message = "The maximum number of character is 250")
 	private String description;
 
 	@JsonFormat(pattern = "yyyy-mm-dd")
