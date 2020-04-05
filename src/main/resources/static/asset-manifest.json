@@ -1,24 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.bbb71e83.chunk.css",
-    "main.js": "/static/js/main.54f1620d.chunk.js",
-    "main.js.map": "/static/js/main.54f1620d.chunk.js.map",
+    "main.js": "/static/js/main.63218ba4.chunk.js",
+    "main.js.map": "/static/js/main.63218ba4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86e74220.js",
     "runtime-main.js.map": "/static/js/runtime-main.86e74220.js.map",
     "static/css/2.52d0c78b.chunk.css": "/static/css/2.52d0c78b.chunk.css",
-    "static/js/2.0dcc4110.chunk.js": "/static/js/2.0dcc4110.chunk.js",
-    "static/js/2.0dcc4110.chunk.js.map": "/static/js/2.0dcc4110.chunk.js.map",
+    "static/js/2.e15f956f.chunk.js": "/static/js/2.e15f956f.chunk.js",
+    "static/js/2.e15f956f.chunk.js.map": "/static/js/2.e15f956f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bf17d4fec8ecff789cc43fe946834548.js": "/precache-manifest.bf17d4fec8ecff789cc43fe946834548.js",
+    "precache-manifest.5c6413dd41b56c1b6a879c7ef832044f.js": "/precache-manifest.5c6413dd41b56c1b6a879c7ef832044f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.52d0c78b.chunk.css.map": "/static/css/2.52d0c78b.chunk.css.map",
     "static/css/main.bbb71e83.chunk.css.map": "/static/css/main.bbb71e83.chunk.css.map",
-    "static/js/2.0dcc4110.chunk.js.LICENSE.txt": "/static/js/2.0dcc4110.chunk.js.LICENSE.txt",
+    "static/js/2.e15f956f.chunk.js.LICENSE.txt": "/static/js/2.e15f956f.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
     "static/media/App.css": "/static/media/background.4fb26d2c.jpeg",
     "static/media/all.min.css": "/static/media/fa-solid-900.ec763292.svg",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/piChef bw.png": "/static/media/piChef bw.2909e848.png",
     "static/media/undraw_celebration_0jvk.svg": "/static/media/undraw_celebration_0jvk.5558a031.svg",
     "static/media/undraw_mobile_wireframe_euf4.svg": "/static/media/undraw_mobile_wireframe_euf4.4b2ce634.svg",
     "static/media/undraw_online_articles_79ff.svg": "/static/media/undraw_online_articles_79ff.a660f562.svg",
@@ -27,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.86e74220.js",
     "static/css/2.52d0c78b.chunk.css",
-    "static/js/2.0dcc4110.chunk.js",
+    "static/js/2.e15f956f.chunk.js",
     "static/css/main.bbb71e83.chunk.css",
-    "static/js/main.54f1620d.chunk.js"
+    "static/js/main.63218ba4.chunk.js"
   ]
 }
